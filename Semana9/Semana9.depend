@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712353078 source:c:\erick\laboratorio\semana9\src\oswindows.cpp
+	"OSWindows.h"
+
+1712355409 c:\erick\laboratorio\semana9\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"iApariencia.h"
+
+1712354253 c:\erick\laboratorio\semana9\include\iapariencia.h
+
+1712353823 source:c:\erick\laboratorio\semana9\main.cpp
+	<iostream>
+	"OSWindows.h"
+
+1712354263 source:c:\erick\laboratorio\semana9\src\iapariencia.cpp
+	"iApariencia.h"
+
