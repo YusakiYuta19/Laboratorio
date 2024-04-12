@@ -17,3 +17,51 @@
 1712354263 source:c:\erick\laboratorio\semana9\src\iapariencia.cpp
 	"iApariencia.h"
 
+1712853060 source:c:\users\erick alvarado\desktop\semana9\main.cpp
+	<iostream>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+
+1712700654 c:\users\erick alvarado\desktop\semana9\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"iApariencia.h"
+
+1712841538 c:\users\erick alvarado\desktop\semana9\include\iapariencia.h
+
+1712354263 source:c:\users\erick alvarado\desktop\semana9\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712708426 source:c:\users\erick alvarado\desktop\semana9\src\oswindows.cpp
+	"OSWindows.h"
+	<iostream>
+	<cstring>
+
+1712845481 source:c:\users\erick alvarado\desktop\semana9\src\oslinux.cpp
+	"OSLinux.h"
+	<iostream>
+
+1712844291 c:\users\erick alvarado\desktop\semana9\include\oslinux.h
+	<string>
+	"XApariencia.h"
+
+1712843100 c:\users\erick alvarado\desktop\semana9\include\xapariencia.h
+
+1712842536 source:c:\users\erick alvarado\desktop\semana9\src\xapariencia.cpp
+	"XApariencia.h"
+
+1712845610 source:c:\users\erick alvarado\desktop\semana9\src\oapariencia.cpp
+	"OApariencia.h"
+
+1712852409 c:\users\erick alvarado\desktop\semana9\include\oapariencia.h
+
+1712852702 source:c:\users\erick alvarado\desktop\semana9\src\ososx.cpp
+	"OSOSx.h"
+	<iostream>
+
+1712852424 c:\users\erick alvarado\desktop\semana9\include\ososx.h
+	<string>
+	"OApariencia.h"
+
